@@ -1,0 +1,51 @@
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\App.config
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.config
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.pdb
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.manifest
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.vsto
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.formProperties.resources
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Help.resources
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Properties.Resources.resources
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Ribbon1.resources
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.dll
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.pdb
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.resx
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.cs
+C:\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.Designer.cs
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.resx
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.cs
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.Designer.cs
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\App.config
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.config
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.pdb
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.manifest
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.vsto
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.formProperties.resources
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Help.resources
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Properties.Resources.resources
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Ribbon1.resources
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.csproj.GenerateResource.Cache
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.dll
+C:\Personal\gkirk\Visual Studio Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.pdb
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.resx
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.cs
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.Designer.cs
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\App.config
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.config
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.pdb
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.manifest
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.vsto
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.formProperties.resources
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Help.resources
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Properties.Resources.resources
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Ribbon1.resources
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.csproj.GenerateResource.Cache
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.dll
+C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.pdb

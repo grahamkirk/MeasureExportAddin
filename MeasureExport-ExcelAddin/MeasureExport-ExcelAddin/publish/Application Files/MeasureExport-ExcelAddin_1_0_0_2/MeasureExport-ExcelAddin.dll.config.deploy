@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="defaultWorkingDirectory" value="C:\esi.manage.export.measure\" />
+    <add key="defaultPropertiesDirectory" value="C:\esi.manage.export.measure\" />
+    <add key="defaultPropertiesFile" value="exportProperties.txt" />
+  </appSettings>
+</configuration>

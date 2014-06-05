@@ -1,0 +1,16 @@
+DONE - CHECK-IN TO SVN
+DONE - Handle not having "\" character @ end of path 
+DONE - Change Double Click and Activate behavior
+DONE - Workflow handling changing paths
+DONE - Handle NPE on Form Closing
+DONE - Manual directory typing should resolve on lost focus as well as enter
+DONE - Check for existence of .exe in the Working Directory
+DONE - Resize RichText Pane when Window is resized
+DONE - Check Directory Path Issue with SPACES and other CHARACTERS in path (properties file & Export location) ie: C:\Standard Demo\Encana US Demo\... or C:\test-import\
+DONE - For Properties Directory
+DONE - For Working Directory
+DONE - Paths should be REMEMBERED
+- If the default path C:\ doesn't find the Measure Export .exe, it shouldn't loop, it should bring up the BROWSE window
+- Select x64 or x32 bit version
+- Find out why the data is being truncated (perhaps a size restriction on the object receiving the CSV stream)
+- Resize Advanced Form should auto-scale controls
