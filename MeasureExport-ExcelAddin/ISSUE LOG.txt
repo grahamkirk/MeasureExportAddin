@@ -10,7 +10,6 @@ DONE - Check Directory Path Issue with SPACES and other CHARACTERS in path (prop
 DONE - For Properties Directory
 DONE - For Working Directory
 DONE - Paths should be REMEMBERED
-- If the default path C:\ doesn't find the Measure Export .exe, it shouldn't loop, it should bring up the BROWSE window
-- Select x64 or x32 bit version
-- Find out why the data is being truncated (perhaps a size restriction on the object receiving the CSV stream)
-- Resize Advanced Form should auto-scale controls
+DONE - Select x64 or x32 bit version
+DONE - Data >60000 Rows is causing an Interop error.  This is because of "Compatibility Mode" which is the default for Excel to open in.  You need to save Book1.xlsx into: C:\Program Files\Microsoft Office\Office14\XLSTART\ so that the default for Excel is .xlsx (not .xls which limits the records to ~64000)
+DONE - Resize Advanced Form should auto-scale controls
