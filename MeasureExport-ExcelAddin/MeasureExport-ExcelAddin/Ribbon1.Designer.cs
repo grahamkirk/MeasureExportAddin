@@ -28,12 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.tab1 = new Microsoft.Office.Tools.Ribbon.RibbonTab();
-            this.group1 = new Microsoft.Office.Tools.Ribbon.RibbonGroup();
-            this.txtProperties = new Microsoft.Office.Tools.Ribbon.RibbonEditBox();
-            this.btnSetup = new Microsoft.Office.Tools.Ribbon.RibbonButton();
-            this.go_button = new Microsoft.Office.Tools.Ribbon.RibbonButton();
-            this.separator1 = new Microsoft.Office.Tools.Ribbon.RibbonSeparator();
+            this.tab1 = this.Factory.CreateRibbonTab();                 //new Microsoft.Office.Tools.Ribbon.RibbonTab();
+            this.group1 = this.Factory.CreateRibbonGroup();             //new Microsoft.Office.Tools.Ribbon.RibbonGroup();
+            this.txtProperties = this.Factory.CreateRibbonEditBox();    //new Microsoft.Office.Tools.Ribbon.RibbonEditBox();
+            this.btnSetup = this.Factory.CreateRibbonButton();          //new Microsoft.Office.Tools.Ribbon.RibbonButton();
+            this.go_button = this.Factory.CreateRibbonButton();         //new Microsoft.Office.Tools.Ribbon.RibbonButton();
+            this.separator1 = this.Factory.CreateRibbonSeparator();     //new Microsoft.Office.Tools.Ribbon.RibbonSeparator();
             this.tab1.SuspendLayout();
             this.group1.SuspendLayout();
             this.SuspendLayout();
@@ -66,7 +66,7 @@
             // 
             this.btnSetup.Label = "Setup";
             this.btnSetup.Name = "btnSetup";
-            this.btnSetup.Click += new System.EventHandler<Microsoft.Office.Tools.Ribbon.RibbonControlEventArgs>(this.btnSetup_Click);
+            this.btnSetup.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.btnSetup_Click);    //new System.EventHandler<Microsoft.Office.Tools.Ribbon.RibbonControlEventArgs>(this.btnSetup_Click);
             // 
             // go_button
             // 
@@ -75,7 +75,7 @@
             this.go_button.Label = "Go!";
             this.go_button.Name = "go_button";
             this.go_button.ShowImage = true;
-            this.go_button.Click += new System.EventHandler<Microsoft.Office.Tools.Ribbon.RibbonControlEventArgs>(this.go_button_Click);
+            this.go_button.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.go_button_Click); //new System.EventHandler<Microsoft.Office.Tools.Ribbon.RibbonControlEventArgs>(this.go_button_Click);
             // 
             // separator1
             // 
@@ -86,7 +86,7 @@
             this.Name = "Ribbon1";
             this.RibbonType = "Microsoft.Excel.Workbook";
             this.Tabs.Add(this.tab1);
-            this.Load += new System.EventHandler<Microsoft.Office.Tools.Ribbon.RibbonUIEventArgs>(this.Ribbon1_Load);
+            this.Load += new Microsoft.Office.Tools.Ribbon.RibbonUIEventHandler(this.Ribbon1_Load);//new System.EventHandler<Microsoft.Office.Tools.Ribbon.RibbonUIEventArgs>(this.Ribbon1_Load);
             this.tab1.ResumeLayout(false);
             this.tab1.PerformLayout();
             this.group1.ResumeLayout(false);

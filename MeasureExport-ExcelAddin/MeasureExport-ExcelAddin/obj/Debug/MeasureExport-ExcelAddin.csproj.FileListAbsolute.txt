@@ -49,3 +49,24 @@ C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug
 C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.csproj.GenerateResource.Cache
 C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.dll
 C:\Personal Projects\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.pdb
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.resx
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.cs
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\AdvancedForm.Designer.cs
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\App.config
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.config
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.pdb
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.dll.manifest
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\MeasureExport-ExcelAddin.vsto
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.formProperties.resources
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Help.resources
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Properties.Resources.resources
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport_ExcelAddin.Ribbon1.resources
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.csproj.GenerateResource.Cache
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.dll
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.pdb
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\obj\Debug\MeasureExport-ExcelAddin.csprojResolveAssemblyReference.cache
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\GIT\MeasureExportAddin\MeasureExport-ExcelAddin\MeasureExport-ExcelAddin\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml

@@ -29,6 +29,8 @@ namespace MeasureExport_ExcelAddin
                 GlobalVariables.propertiesDirectory = @"C:\";
             
             GlobalVariables.propertiesFile = Properties.Settings.Default.defaultPropertiesFile;
+            GlobalVariables.exportVersion = Properties.Settings.Default.defaultExportVersion;
+
             Globals.Ribbons.Ribbon1.txtProperties.Text = GlobalVariables.propertiesFile;
         }
 
@@ -48,7 +50,7 @@ namespace MeasureExport_ExcelAddin
             activeWorksheet.UsedRange.Clear();
             
             //Bind Dataset to the Active Excel Sheet.
-            Microsoft.Office.Interop.Excel.Range rng = AddData(MeasureExport.ReadStream(GlobalVariables.workingDirectory, GlobalVariables.propertiesDirectory, GlobalVariables.propertiesFile), activeWorksheet);
+            Excel.Range rng = AddData(MeasureExport.ReadStream(GlobalVariables.workingDirectory, GlobalVariables.propertiesDirectory, GlobalVariables.propertiesFile), activeWorksheet);
 
             //Autosize the columns based on the resulting data
             activeWorksheet.Columns.EntireColumn.AutoFit();
@@ -66,10 +68,9 @@ namespace MeasureExport_ExcelAddin
             columnNames = new object[1, dataTable.Columns.Count];
 
             //get a range object that the columns will be added to
-            Microsoft.Office.Interop.Excel.Range columnsNamesRange = (Microsoft.Office.Interop.Excel.Range)activeWorksheet.get_Range(activeWorksheet.Cells[1, 1]
-           , activeWorksheet.Cells[1, dataTable.Columns.Count]);
+            Excel.Range columnsNamesRange = activeWorksheet.Range[activeWorksheet.Cells[1, 1], activeWorksheet.Cells[1, dataTable.Columns.Count]];
 
-            //a simple assignement allows the data to be transferred quickly
+            //a simple assignment allows the data to be transferred quickly
             columnsNamesRange.Value2 = columnNames;
 
             //release the columsn range object now it is finished with
@@ -90,8 +91,7 @@ namespace MeasureExport_ExcelAddin
 
             //get a range to add the table data into 
             //it is one row down to avoid the previously added columns
-            Microsoft.Office.Interop.Excel.Range dataCells = (Microsoft.Office.Interop.Excel.Range)activeWorksheet.get_Range(activeWorksheet.Cells[1, 1],
-            activeWorksheet.Cells[dataTable.Rows.Count, dataTable.Columns.Count]);
+            Excel.Range dataCells = activeWorksheet.Range[activeWorksheet.Cells[1, 1], activeWorksheet.Cells[dataTable.Rows.Count, dataTable.Columns.Count]];
 
             //assign data to worksheet
             dataCells.Value2 = rowData;
@@ -100,8 +100,7 @@ namespace MeasureExport_ExcelAddin
             dataCells = null;
 
             //return the range to the new data
-            return activeWorksheet.get_Range(activeWorksheet.Cells[1, 1],
-            activeWorksheet.Cells[dataTable.Rows.Count + 1, dataTable.Columns.Count]);
+            return activeWorksheet.Range[activeWorksheet.Cells[1, 1], activeWorksheet.Cells[dataTable.Rows.Count + 1, dataTable.Columns.Count]];
         }
 
 

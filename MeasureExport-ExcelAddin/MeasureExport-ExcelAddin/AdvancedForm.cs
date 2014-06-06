@@ -17,11 +17,17 @@ namespace MeasureExport_ExcelAddin
             InitializeComponent();
             txtWorkingDirectory.Text = GlobalVariables.workingDirectory;
             txtPropertyFileLocation.Text = GlobalVariables.propertiesDirectory;
+            cboVersion.Text = GlobalVariables.exportVersion;
 
             changePropertiesDirectory(txtPropertyFileLocation.Text);
         }
  
         private void btnBrowseWorkingDir_Click(object sender, EventArgs e)
+        {
+            openFolderBrowser();
+        }
+
+        private void openFolderBrowser()
         {
             FolderBrowserDialog workingDirectory = new FolderBrowserDialog();
 
@@ -48,6 +54,7 @@ namespace MeasureExport_ExcelAddin
                 if (displayError("The selected directory does not contain the exportMeasure.exe.  Please browse to a valid location containing exportMeasure.exe", "Invalid Directory", MessageBoxIcon.Error) == DialogResult.OK)
                 {
                     txtWorkingDirectory.Text = GlobalVariables.workingDirectory;
+                    openFolderBrowser();
                 }
             }
         }
@@ -69,6 +76,14 @@ namespace MeasureExport_ExcelAddin
                     changePropertiesDirectory(GlobalVariables.propertiesDirectory);
                 }
             }
+        }
+
+        private void changeExportVersion(string newVersion)
+        {
+            cboVersion.Text = newVersion;
+            GlobalVariables.exportVersion = newVersion;
+            Properties.Settings.Default.defaultExportVersion = newVersion;
+            Properties.Settings.Default.Save();
         }
 
         private DialogResult displayError(string message, string caption, MessageBoxIcon icon)
@@ -166,9 +181,14 @@ namespace MeasureExport_ExcelAddin
             changeWorkingDirectory(txtWorkingDirectory.Text);
         }
 
-        private void formProperties_Load(object sender, EventArgs e)
+         private void formProperties_Load(object sender, EventArgs e)
         {
 
         }
+
+         private void cboVersion_Leave(object sender, EventArgs e)
+         {
+             changeExportVersion(cboVersion.Text);
+         }
     }
 }
